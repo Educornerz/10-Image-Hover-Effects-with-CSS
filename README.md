@@ -1,4 +1,4 @@
-# 10-Image-Hover-Effects-with-CSS
+# 10+-Image-Hover-Effects-with-CSS
 
 CSS Image Hover Effects
 Grab the HTML and CSS code for 15 Image hover effects.
